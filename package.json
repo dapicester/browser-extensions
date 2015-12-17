@@ -1,0 +1,13 @@
+{
+  "title": "Browser extension example",
+  "name": "browser-extensions-example",
+  "version": "0.1.0",
+  "description": "Example of multi-browser extension.",
+  "main": "index.js",
+  "author": "Paolo D'Apice <dapicester@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
